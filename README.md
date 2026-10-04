@@ -18,4 +18,4 @@ del /s /q "C:\Windows\SoftwareDistribution\*.*"
 net start bits
 net start wuauserv
 
-Run only when Windows Update is not in progress. Windows rebuilds these caches as needed; clearing Prefetch can temporarily slow app launches, and clearing the update cache may require files to be downloaded again.
+Run only when Windows Update is not in progress. Windows rebuilds these caches as needed; clearing Prefetch can temporarily slow app launches, and clearing the update cache may require files to be downloaded again..
